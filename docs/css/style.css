@@ -12,7 +12,11 @@ body {
   font-size: 1.5em;
   color: rgb(51, 51, 51);
   background-image: url("../design%20background-3063287__340.jpg");
+  background-size: cover;
+}
 
+.light{
+  color: #fff;
 }
 .nav {
   order: -1;
@@ -33,7 +37,7 @@ nav li{
 } 
 
 nav li:last-child {
-  border right: none;  
+  border-right: none;  
 } 
 
 nav ul li a{
@@ -109,4 +113,4 @@ nav ul li a{
 .myImage {
   background-image: url("design%20background-3063287__340.jpg");
 }
-}
+
