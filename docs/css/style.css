@@ -54,7 +54,7 @@ nav ul li a{
 }
 .column-wrap /*Div Element*/
 {
-  background: #20cdb2;
+  
   padding: 5px;
   border-radius: 4px;
   display: flex; /*sets the display type of the div element to flex*/
